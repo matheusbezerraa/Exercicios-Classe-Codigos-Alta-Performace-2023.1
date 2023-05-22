@@ -1,3 +1,13 @@
+/*
+Alunos/Matriculas:
+Matheus Freire Bezerra - 01524929
+Felipe Portela - 01553362
+Lucas Beijamin Oliveira de Arruda - 01525249
+João Cordeiro Freitas - 01510527
+
+
+*/
+
 class Empregado {
     constructor(nome, salario) {
       this.nome = nome;
